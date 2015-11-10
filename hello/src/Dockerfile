@@ -1,4 +1,4 @@
-FROM    aiken-node-base
+FROM    slimypit/mybase
 # Bundle app source
 COPY . /src
 

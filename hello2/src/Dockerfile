@@ -1,4 +1,4 @@
-FROM    slimypit/node-base
+FROM    slimypit/mybase
 
 # Bundle app source
 COPY . /src
